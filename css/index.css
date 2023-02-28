@@ -1,0 +1,35 @@
+nav {
+  height: 50px;
+  background-color: lightgrey;
+  border: 2px;
+  background-color: rgb(99, 99, 99);
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.inline-block {
+  padding: 15px;
+  display: inline-block;
+}
+.left {
+  height: 700px;
+  float: left;
+  background-color: lightblue;
+  width: 30%;
+}
+.right {
+  height: 700px;
+  float: left;
+  background-color: lightgreen;
+  width: 70%;
+}
+/* target the class of inline-block below */
+
+/* target the class of .left below */
+
+/* target the class of .right below */
